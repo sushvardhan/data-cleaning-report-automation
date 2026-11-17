@@ -1,0 +1,16 @@
+Customer_ID,Name,Email,Age,City,Purchase_Amount,Join_Date
+C001,Asha,asha@example.com,24.0,Hyderabad,1200.0,2024-01-12
+C002, rahul ,RAHUL@EXAMPLE.COM,, hyderabad ,850.0,2024/02/03
+C003,Meena,meena@example.com,29.0,Bengaluru,,03-15-2024
+C004,Arjun,arjun@example.com,31.0,Mumbai,2400.0,2024-04-18
+C005,Kavya,kavya@example.com,27.0,Chennai,1750.0,2024-05-09
+C006,Ravi,ravi@example.com,42.0,Delhi,999.0,2024-06-22
+C007,Sneha,sneha@example.com,35.0,Pune,3200.0,2024-07-01
+C008,Imran,imran@example.com,28.0,Hyderabad,1500.0,2024-08-11
+C009,Divya,divya@example.com,,Kolkata,2100.0,2024-09-02
+C010,Kiran,kiran@example.com,39.0,Mumbai,-500.0,2024-10-20
+C003,Meena,meena@example.com,29.0,Bengaluru,,2024-03-15
+C012,Sanjay,sanjay@example.com,33.0,Chennai,1800.0,2024-11-05
+C013,Pooja,pooja@example.com,26.0,Pune,950.0,2024-12-12
+C014,Nikhil,nikhil@example.com,150.0,Delhi,2700.0,2025-01-10
+C015,Fatima,fatima@example.com,30.0,Hyderabad,1300.0,2025-02-18
